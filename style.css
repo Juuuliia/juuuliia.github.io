@@ -370,7 +370,7 @@ a img.aligncenter {
 }
 
 #home {
-    padding-top: 5px; /* Reduzieren Sie diesen Wert nach Bedarf */
+    padding-top: 0px; /* Reduzieren Sie diesen Wert nach Bedarf */
     margin-top: 0; /* Stellt sicher, dass kein zusätzlicher oberer Rand vorhanden ist */
 }
 
