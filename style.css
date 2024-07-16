@@ -370,7 +370,7 @@ a img.aligncenter {
 	vertical-align: middle;
 	position: relative;
 	z-index: 1;
-    padding-top: 10mm;
+    padding-top: 0mm;
 }
 .heading h1{
 	color: #ffffff;
