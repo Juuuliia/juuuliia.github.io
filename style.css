@@ -304,12 +304,10 @@ a img.aligncenter {
 -------------------------------------------------------------------*/
 
 .navbar-dark{
+    margin-bottom: 0; /* Entfernen von zusätzlichem Rand unter der Navbar */
 	
 }
 
-.navbar {
-    margin-bottom: 0; /* Entfernen von zusätzlichem Rand unter der Navbar */
-}
 
 .navbar-dark .navbar-nav .nav-link{
 	color: #ffffff;
@@ -350,12 +348,14 @@ a img.aligncenter {
 .main-banner{
 	height: 100%;
 	position: relative;
+    margin-top: 0;
 }
 
 .main-banner{
 	display: table;
     width: 100%;
 	text-align: center;
+    margin-top: 0;
 }
 .main-banner::after {
     content: " ";
@@ -370,7 +370,7 @@ a img.aligncenter {
 }
 
 #home {
-    padding-top: 10px; /* Reduzieren Sie diesen Wert nach Bedarf */
+    padding-top: 5px; /* Reduzieren Sie diesen Wert nach Bedarf */
     margin-top: 0; /* Stellt sicher, dass kein zusätzlicher oberer Rand vorhanden ist */
 }
 
