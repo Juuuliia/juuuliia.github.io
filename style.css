@@ -364,13 +364,19 @@ a img.aligncenter {
     z-index: 0;
     opacity: .6;
 }
+
+#home {
+    padding-top: 10px; /* Reduzieren Sie diesen Wert nach Bedarf */
+    margin-top: 0; /* Stellt sicher, dass kein zusätzlicher oberer Rand vorhanden ist */
+}
+
 .heading{
 	color: #fff;
 	display: table-cell;
 	vertical-align: middle;
 	position: relative;
 	z-index: 1;
-    padding-top: 0 !important;
+    padding-top: 10px !important;
 }
 .heading h1{
 	color: #ffffff;
