@@ -307,6 +307,10 @@ a img.aligncenter {
 	
 }
 
+.navbar {
+    margin-bottom: 0; /* Entfernen von zusätzlichem Rand unter der Navbar */
+}
+
 .navbar-dark .navbar-nav .nav-link{
 	color: #ffffff;
 	letter-spacing: 1px;
