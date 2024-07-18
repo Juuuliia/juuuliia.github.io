@@ -2079,7 +2079,10 @@ select.mobile-device {
 }
 
 #kontakt {
-    background-color: #A9A9A9;
+    background-color: #333333;
+}
+
+#kontakt .section-title p {
     color: #ffffff;
 }
 
