@@ -349,7 +349,6 @@ a img.aligncenter {
     display: table; 
     width: 100%;
     text-align: center;
-    padding-top: 5px;
 }
 
 .main-banner::after {
@@ -369,7 +368,7 @@ a img.aligncenter {
 	vertical-align: middle;
 	position: relative;
 	z-index: 1;
-    padding-top: 0mm;
+    padding-top: 10mm !important;;
 }
 .heading h1{
 	color: #ffffff;
