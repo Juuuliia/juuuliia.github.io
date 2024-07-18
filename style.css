@@ -346,10 +346,10 @@ a img.aligncenter {
 .main-banner {
     height: 100%;
     position: relative;
-    display: block; 
+    display: table; 
     width: 100%;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 5px;
 }
 
 .main-banner::after {
