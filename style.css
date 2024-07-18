@@ -35,7 +35,7 @@ html, body{
 }
 
 body.demos .section {
-    background: url(images/bg.png) repeat top center #f2f3f5;
+    background-color: #A9A9A9;
 }
 
 body.demos .section-title img {
