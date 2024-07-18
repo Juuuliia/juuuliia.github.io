@@ -346,10 +346,10 @@ a img.aligncenter {
 .main-banner {
     height: 100%;
     position: relative;
-    display: block; /* Ändern von display: table auf block */
+    display: block; 
     width: 100%;
     text-align: center;
-    padding-top: 100px; /* Fügen Sie padding-top hinzu, um den Text nach oben zu verschieben */
+    padding-top: 20px;
 }
 
 .main-banner::after {
