@@ -343,16 +343,15 @@ a img.aligncenter {
     SECTIONS
 -------------------------------------------------------------------*/
 
-.main-banner{
-	height: 100%;
-	position: relative;
+.main-banner {
+    height: 100%;
+    position: relative;
+    display: block; /* Ändern von display: table auf block */
+    width: 100%;
+    text-align: center;
+    padding-top: 100px; /* Fügen Sie padding-top hinzu, um den Text nach oben zu verschieben */
 }
 
-.main-banner{
-	display: table;
-    width: 100%;
-	text-align: center;
-}
 .main-banner::after {
     content: " ";
     position: absolute;
