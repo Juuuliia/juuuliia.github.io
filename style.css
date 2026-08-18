@@ -1496,7 +1496,7 @@ hr.invis1 {
 }
 .handgelenk-img {
     width: 100%;
-    aspect-ratio: 1.5 / 1;
+    height: 335px !important;
     object-fit: cover;
 }
 
